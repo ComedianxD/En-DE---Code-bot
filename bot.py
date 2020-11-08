@@ -58,5 +58,5 @@ async def print(ctx, *args):
 
 	await ctx.channel.send(response)'''
 
-bot.run('Nzc0OTYzMzA2NDE3ODgxMTE4.X6fa0g.XaSM1HmCW6N50AeykxxkEelWu6Q')
+# bot.run('Nzc0OTYzMzA2NDE3ODgxMTE4.X6fa0g.XaSM1HmCW6N50AeykxxkEelWu6Q')
 # bot.run('NzczMTM3MDU3Mjg3MzcyODEw.X6E1_g.ruYswAyswmTn9a2XgXtyCPIbOWk')
